@@ -42,7 +42,7 @@ To leverage the insights gained from both collaborative-based and popularity-bas
 
 ## **Dataset Variable Description**
 
-
+#### **Dataset link:**  https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
 
 **Books dataset-**
 
